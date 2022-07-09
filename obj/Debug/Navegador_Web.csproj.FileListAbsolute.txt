@@ -1,0 +1,11 @@
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Navegador_Web\Navegador_Web\obj\Debug\Navegador_Web.csproj.AssemblyReference.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Navegador_Web\Navegador_Web\obj\Debug\Navegador_Web.csproj.SuggestedBindingRedirects.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Navegador_Web\Navegador_Web\obj\Debug\Navegador_Web.Form1.resources
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Navegador_Web\Navegador_Web\obj\Debug\Navegador_Web.Properties.Resources.resources
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Navegador_Web\Navegador_Web\obj\Debug\Navegador_Web.csproj.GenerateResource.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Navegador_Web\Navegador_Web\obj\Debug\Navegador_Web.csproj.CoreCompileInputs.cache
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Navegador_Web\Navegador_Web\bin\Debug\Navegador_Web.exe.config
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Navegador_Web\Navegador_Web\bin\Debug\Navegador_Web.exe
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Navegador_Web\Navegador_Web\bin\Debug\Navegador_Web.pdb
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Navegador_Web\Navegador_Web\obj\Debug\Navegador_Web.exe
+C:\Users\rijof\OneDrive\Escritorio\CLASES\ITLAS 2021\2022-C5\DCU\Practicas c#\Navegador_Web\Navegador_Web\obj\Debug\Navegador_Web.pdb
